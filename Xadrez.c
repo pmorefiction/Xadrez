@@ -19,3 +19,7 @@ int main() {
         printf("Esquerda\n");
         k++;
     } while (k <= 8);
+    
+    system("pause");
+    return 0;
+}
